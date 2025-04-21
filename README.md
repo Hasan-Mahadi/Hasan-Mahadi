@@ -11,9 +11,9 @@
 I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicated to crafting clean, efficient, and scalable web applications. With a strong foundation in both frontend and backend technologies, I thrive on solving complex problems and creating seamless user experiences.
 
 - 🔭 Currently working as a **Full Stack Software Engineer**
-- 🌱 Learning **Socket.io, TypeScript, and System Design**
-- 💡 Expertise in **React, Redux, Node.js, MongoDB, ShurjoPay Integration**
-- 📫 Reach me at: **hasanmahadihm99@gmail.com** / **hasanmahadiius22@gmail.com**
+- 🌱 Learning **Socket.io, TypeScript,  System Design and Software Engineer**
+- 💡 Expertise in **React, Next.js,  Redux, Node.js, Express.js, MongoDB, Mongoose**
+- 📫 Reach me at: **hasanmahadiius22@gmail.com**
 - 🌍 Based in **Dhaka, Bangladesh**
 
 ---
