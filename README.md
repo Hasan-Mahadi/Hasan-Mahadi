@@ -1,6 +1,6 @@
  <!-- Cover Image Banner -->
 <div align="center">
-  <img src=" https://i.postimg.cc/wxJVyHLY/My-Photo-Proffetional.jpg" alt="Hasan Mahadi - Full Stack Developer" width="100%"/>
+  <img src="https://i.postimg.cc/wxJVyHLY/My-Photo-Proffetional.jpg" alt="Hasan Mahadi - Full Stack Developer" width="100%" style="border-radius: 8px; max-height: 400px; object-fit: cover;"/>
 </div>
 
 <h1 align="center"> 
