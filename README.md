@@ -1,6 +1,6 @@
  <!-- Cover Image Banner -->
 <div align="center">
-  <img src="https://github.com/Hasan-Mahadi/Hasan-Mahadi/blob/main/assets/github-header-image.png" alt="Hasan Mahadi - Full Stack Developer" width="100%"/>
+  <img src=" https://i.postimg.cc/wxJVyHLY/My-Photo-Proffetional.jpg" alt="Hasan Mahadi - Full Stack Developer" width="100%"/>
 </div>
 
 <h1 align="center"> 
