@@ -1,4 +1,9 @@
- <h1 align="center"> 
+ <!-- Cover Image Banner -->
+<div align="center">
+  <img src="https://github.com/Hasan-Mahadi/Hasan-Mahadi/blob/main/assets/github-header-image.png" alt="Hasan Mahadi - Full Stack Developer" width="100%"/>
+</div>
+
+<h1 align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Hasan+Mahadi;Full+Stack+Developer;MERN+Stack+Specialist;Tech+Enthusiast" alt="Typing SVG" />
 </h1>
 
@@ -11,8 +16,8 @@
 I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicated to crafting clean, efficient, and scalable web applications. With a strong foundation in both frontend and backend technologies, I thrive on solving complex problems and creating seamless user experiences.
 
 - 🔭 Currently working as a **Full Stack Software Engineer**
-- 🌱 Learning **Socket.io, TypeScript,  System Design and Software Engineer**
-- 💡 Expertise in **React, Next.js,  Redux, Node.js, Express.js, MongoDB, Mongoose**
+- 🌱 Learning **Socket.io, TypeScript, System Design and Software Engineering**
+- 💡 Expertise in **React, Next.js, Redux, Node.js, Express.js, MongoDB, Mongoose**
 - 📫 Reach me at: **hasanmahadiius22@gmail.com**
 - 🌍 Based in **Dhaka, Bangladesh**
 
@@ -54,6 +59,16 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicate
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan-Mahadi&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
+<!-- GitHub Contribution Graph Snake -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Hasan-Mahadi/Hasan-Mahadi/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
+</div>
+
+<!-- GitHub Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hasan-Mahadi&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
+
 ---
 
 ### 🏆 Featured Projects
@@ -75,7 +90,7 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicate
 ### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasanmahadihm)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasanmahadihm99@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasanmahadiius22@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/HasanMahadi)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HasanMahadi)
 
