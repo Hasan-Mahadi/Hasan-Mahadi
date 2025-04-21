@@ -1,6 +1,6 @@
  <!-- Cover Image Banner -->
 <div align="center">
-  <img src="https://i.postimg.cc/7hjPTcRK/final-cover-pic.png" alt="Hasan Mahadi - Full Stack Developer" width="100%" style="border-radius: 8px; max-height: 400px; object-fit: cover;"/>
+  <img src="https://i.postimg.cc/sXD5nQgt/final-cover-vedio-ezgif-com-speed.gif" alt="Hasan Mahadi - Full Stack Developer" width="100%" style="border-radius: 8px; max-height: 400px; object-fit: cover;"/>
 </div>
 
 <h1 align="center"> 
