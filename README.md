@@ -41,7 +41,6 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicate
 ### Databases & ORM
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![DBMS](https://img.shields.io/badge/DBMS-000000?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 
