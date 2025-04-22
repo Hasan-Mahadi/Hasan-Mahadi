@@ -11,7 +11,7 @@
 
 ---
 
-#  🚀 About Me
+##  🚀 About Me
 
 I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicated to crafting clean, efficient, and scalable web applications. With a strong foundation in both frontend and backend technologies, I thrive on solving complex problems and creating seamless user experiences. I'm a student in the CSE Department at the University of Scholars.  I am Learning and focusing on Software Engineering.. I'm from Bangladesh!
 
@@ -23,27 +23,27 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicate
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-#### Frontend
+### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-#### Backend
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-#### Databases
+### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### DevOps & Tools
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -51,7 +51,7 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicate
 
 ---
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hasan-Mahadi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -59,7 +59,7 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicate
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan-Mahadi&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
-### 📊  GitHub Contribution Graph Snake 
+## 📊  GitHub Contribution Graph Snake 
  <div align="center">
   <img src="https://raw.githubusercontent.com/Hasan-Mahadi/Hasan-Mahadi/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
 </div>
@@ -67,30 +67,30 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicate
 
 
 
-### 🏆 GitHub Trophies 
+## 🏆 GitHub Trophies 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Hasan-Mahadi&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
 ---
 
-### 🏆🏆🏆 Featured Projects
+## 🏆🏆🏆 Featured Projects
 
-#### Hajj Management Platform
+### Hajj Management Platform
 > Complete solution for Hajj registration and management  
 🔗 [GitHub](https://github.com/hasanmahadihm/hajj-platform) | 🚀 Tech: MERN Stack
 
-#### E-commerce with ShurjoPay Integration
+### E-commerce with ShurjoPay Integration
 > Payment-integrated e-commerce platform  
 🔗 [GitHub](https://github.com/hasanmahadihm/shurjopay-ecommerce) | 🚀 Tech: MERN, Payment Gateway
 
-#### Modern Blog Application
+### Modern Blog Application
 > Feature-rich blog platform  
 🔗 [GitHub](https://github.com/hasanmahadihm/devto-blog) | 🚀 Tech: Next.js, TailwindCSS
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasanmahadihm)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasanmahadiius22@gmail.com)
