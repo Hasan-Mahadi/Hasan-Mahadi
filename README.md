@@ -11,7 +11,7 @@
 
 ---
 
-###🚀 About Me
+### 🚀 About Me
 
 I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicated to crafting clean, efficient, and scalable web applications. With a strong foundation in both frontend and backend technologies, I thrive on solving complex problems and creating seamless user experiences. I'm a student in the CSE Department at the University of Scholars.  I am Learning and focusing on Software Engineering.. I'm from Bangladesh!
 
