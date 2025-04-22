@@ -105,7 +105,7 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicate
 
  ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hasan-Mahadi&theme=radical&row=2&column=4&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%"/>
+ ![](https://github-profile-trophy.vercel.app/?username=Hasan-Mahadi)
 </div>
 ---
 
