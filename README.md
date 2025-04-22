@@ -60,9 +60,9 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicate
 </div>
 
  <!-- GitHub Contribution Graph Snake -->
- <p align="center">
-  <img src="https://raw.githubusercontent.com/Hasan-Mahadi/Hasan-Mahadi/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
-</p>
+ <div align="center">
+  <img src="https://raw.githubusercontent.com/Hasan-Mahadi/Hasan-Mahadi/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+</div>
 
 
 
