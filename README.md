@@ -93,12 +93,7 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicate
 
 ---
 
-### ☕ Support My Work
-If you like what I do, consider supporting me:
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourprofile)
-
----
 
 ## 🏆 GitHub Trophies 
 <div align="center">
@@ -120,6 +115,13 @@ If you like what I do, consider supporting me:
 ### Modern Blog Application
 > Feature-rich blog platform  
 🔗 [GitHub](https://github.com/hasanmahadihm/devto-blog) | 🚀 Tech: Next.js, TailwindCSS
+
+---
+
+### ☕ Support My Work
+If you like what I do, consider supporting me:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourprofile)
 
 ---
 
