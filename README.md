@@ -78,14 +78,13 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicate
 - **MERN Full Stack Professional** - Programming-Hero (2023-2024)
  
  ---
- ## 📊 GitHub Analytics
+ ### 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hasan-Mahadi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hasan-Mahadi&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan-Mahadi&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan-Mahadi&layout=compact&langs_count=6&theme=radical&hide=html,css,scss,less,jupyter%20notebook&exclude_repo=repository-name-1,repository-name-2"/>
 </div>
-
 ---
 
 ## 📊  GitHub Contribution Graph Snake 
