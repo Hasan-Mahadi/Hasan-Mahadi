@@ -51,10 +51,7 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicate
 
 ---
 
-### 🛠️ Technical Skills Radar
-
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,ts,nodejs,express,graphql,prisma,mongodb,postgres,mysql,docker,aws,git,vercel&perline=8)](https://skillicons.dev)
-
+ 
 
 ### 🎚️ Skill Proficiency Radar
 | Level        | Technologies                                                                 |
