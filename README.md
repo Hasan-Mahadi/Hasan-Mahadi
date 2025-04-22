@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Hasan+Mahadi;Full+Stack+Developer;MERN+Stack+Specialist;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Hasan+Mahadi;Full+Stack+Developer;MERN+Stack+Specialist;Tech+Enthusiast; Software+Engineer" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">Building scalable web solutions from Dhaka, Bangladesh</h3>
@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicated to crafting clean, efficient, and scalable web applications. With a strong foundation in both frontend and backend technologies, I thrive on solving complex problems and creating seamless user experiences.
+I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicated to crafting clean, efficient, and scalable web applications. With a strong foundation in both frontend and backend technologies, I thrive on solving complex problems and creating seamless user experiences. I'm a student in the CSE Department at the University of Scholars.  I am Learning and focusing on Software Engineering.. I'm from Bangladesh!
 
 - 🔭 Currently working as a **Full Stack Software Engineer.**
 - 🌱 Learning **Socket.io, TypeScript, System Design and Software Engineering.**
