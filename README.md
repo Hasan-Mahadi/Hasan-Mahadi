@@ -86,10 +86,17 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicate
 ---
 
 
-### 📅 Coding Activity
+## 📅 Coding Activity
 <!-- GitHub Activity Graph -->
 [![Hasan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hasan-Mahadi&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+---
+
+### ☕ Support My Work
+If you like what I do, consider supporting me:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourprofile)
 
 ---
 
