@@ -102,7 +102,7 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicate
 
 ---
 
- [![Hasan's Metrics](https://github-readme-stats-sigma-five.vercel.app/api?username=Hasan-Mahadi&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
 ## 🏆🏆🏆 Featured Projects
 
