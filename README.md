@@ -59,10 +59,11 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicate
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan-Mahadi&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
-<!-- GitHub Contribution Graph Snake -->
+ <!-- GitHub Contribution Graph Snake -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Hasan-Mahadi/Hasan-Mahadi/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
+  ![Snake animation](https://github.com/Hasan-Mahadi/Hasan-Mahadi/blob/output/github-contribution-grid-snake.svg)
 </div>
+
 
 <!-- GitHub Trophies -->
 <div align="center">
