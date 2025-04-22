@@ -102,9 +102,7 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicate
 
 ---
 
- ### 😄 Fun Dev Stats
-[![Hasan's GitHub Metrics](https://github-readme-stats-eight-theta.vercel.app/api?username=Hasan-Mahadi&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
----
+ [![Hasan's Metrics](https://github-readme-stats-sigma-five.vercel.app/api?username=Hasan-Mahadi&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆🏆🏆 Featured Projects
 
