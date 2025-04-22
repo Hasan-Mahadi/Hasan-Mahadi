@@ -51,10 +51,10 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicate
 
 ---
 
+### 🛠️ Technical Skills Radar
 
-### 📊 Skills Radar
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,ts,tailwind,redux,aws,docker,graphql,prisma&perline=6)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,ts,nodejs,express,graphql,prisma,mongodb,postgres,mysql,docker,aws,git,vercel&perline=8)](https://skillicons.dev)
+ 
 ## 📊 GitHub Analytics
 
 <div align="center">
