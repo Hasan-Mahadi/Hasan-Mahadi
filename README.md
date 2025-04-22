@@ -53,12 +53,18 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicate
 
  
 
-### 🎚️ Skill Proficiency Radar
+## 🎚️ Skill Proficiency Radar
 | Level        | Technologies                                                                 |
 |--------------|------------------------------------------------------------------------------|
 | **Expert**   | ![React](https://skillicons.dev/icons?i=react) ![Node](https://skillicons.dev/icons?i=nodejs) ![Next](https://skillicons.dev/icons?i=nextjs) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Express](https://skillicons.dev/icons?i=express) ![Tailwind](https://skillicons.dev/icons?i=tailwind) |
 | **Proficient** | ![TypeScript](https://skillicons.dev/icons?i=ts) ![Redux](https://skillicons.dev/icons?i=redux) ![Prisma](https://skillicons.dev/icons?i=prisma) ![AWS](https://skillicons.dev/icons?i=aws) ![Git](https://skillicons.dev/icons?i=git) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) |
 | **Learning** | ![GraphQL](https://skillicons.dev/icons?i=graphql) ![Docker](https://skillicons.dev/icons?i=docker) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Vercel](https://skillicons.dev/icons?i=vercel) |
+
+
+## 📜 Certifications
+ 
+- **MERN Full Stack Professional** - Programming-Hero (2023-2024)
+ 
  
 ## 📊 GitHub Analytics
 
