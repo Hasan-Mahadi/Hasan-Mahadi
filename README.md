@@ -3,8 +3,8 @@
   <img src="https://i.postimg.cc/7hjPTcRK/final-cover-pic.png" alt="Hasan Mahadi - Full Stack Developer" width="100%" style="border-radius: 8px; max-height: 400px; object-fit: cover;"/>
 </div>
 
-<h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Hasan+Mahadi;Full+Stack+Developer;MERN+Stack+Specialist;Tech+Enthusiast; Software+Engineer" alt="Typing SVG" />
+ <h1 align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Hasan+Mahadi;Software+Engineer;Full+Stack+Developer;MERN+Stack+Specialist;Tech+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">Building scalable web solutions from Dhaka, Bangladesh</h3>
