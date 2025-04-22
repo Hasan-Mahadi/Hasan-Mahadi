@@ -58,8 +58,6 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicate
 
 ---
 
- 
-
  ## 🎚️ Skill Proficiency Radar
 
 | Level        | Technologies                                                                 |
@@ -68,6 +66,8 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicate
 | **Proficient** | ![Redux](https://skillicons.dev/icons?i=redux) ![Prisma](https://skillicons.dev/icons?i=prisma) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![Git](https://skillicons.dev/icons?i=git) ![AWS](https://skillicons.dev/icons?i=aws) ![SQL](https://skillicons.dev/icons?i=postgres) ![DBMS](https://skillicons.dev/icons?i=postgres) |
 | **Learning** | ![GraphQL](https://skillicons.dev/icons?i=graphql) ![Docker](https://skillicons.dev/icons?i=docker) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Linux](https://skillicons.dev/icons?i=linux) ![Vitest](https://skillicons.dev/icons?i=vitest) ![Jest](https://skillicons.dev/icons?i=jest) |
 
+
+ 
 
 ---
 
