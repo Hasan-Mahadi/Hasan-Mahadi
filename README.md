@@ -102,10 +102,8 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicate
 
 ---
 
-### 😄 Fun Dev Stats
-<!-- GitHub metrics -->
-[![Hasan's GitHub metrics](https://metrics.lecoq.io/Hasan-Mahadi?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FDhaka)](https://github.com/lowlighter/metrics)
-
+ ### 😄 Fun Dev Stats
+[![Hasan's GitHub Metrics](https://github-readme-stats-eight-theta.vercel.app/api?username=Hasan-Mahadi&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 🏆🏆🏆 Featured Projects
