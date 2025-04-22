@@ -102,6 +102,12 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicate
 
 ---
 
+### 😄 Fun Dev Stats
+<!-- GitHub metrics -->
+[![Hasan's GitHub metrics](https://metrics.lecoq.io/Hasan-Mahadi?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FDhaka)](https://github.com/lowlighter/metrics)
+
+---
+
 ## 🏆🏆🏆 Featured Projects
 
 ### Hajj Management Platform
@@ -118,7 +124,7 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicate
 
 ---
 
-### ☕ Support My Work
+## ☕ Support My Work
 If you like what I do, consider supporting me:
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourprofile)
