@@ -65,7 +65,7 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicate
  
 - **MERN Full Stack Professional** - Programming-Hero (2023-2024)
  
- 
+ ---
 ## 📊 GitHub Analytics
 
 <div align="center">
