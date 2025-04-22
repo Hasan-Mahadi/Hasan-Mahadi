@@ -15,9 +15,9 @@
 
 I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicated to crafting clean, efficient, and scalable web applications. With a strong foundation in both frontend and backend technologies, I thrive on solving complex problems and creating seamless user experiences.
 
-- 🔭 Currently working as a **Full Stack Software Engineer**
-- 🌱 Learning **Socket.io, TypeScript, System Design and Software Engineering**
-- 💡 Expertise in **React, Next.js, Redux, Node.js, Express.js, MongoDB, Mongoose**
+- 🔭 Currently working as a **Full Stack Software Engineer.**
+- 🌱 Learning **Socket.io, TypeScript, System Design and Software Engineering.**
+- 💡 Expertise in **React, Next.js, Redux, Node.js, Express.js, MongoDB, Mongoose.**
 - 📫 Reach me at: **hasanmahadiius22@gmail.com**
 - 🌍 Based in **Dhaka, Bangladesh**
 
@@ -59,7 +59,7 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicate
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan-Mahadi&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
-  GitHub Contribution Graph Snake 
+### 📊  GitHub Contribution Graph Snake 
  <div align="center">
   <img src="https://raw.githubusercontent.com/Hasan-Mahadi/Hasan-Mahadi/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
 </div>
@@ -67,14 +67,14 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicate
 
 
 
-<!-- GitHub Trophies -->
+### 🏆 GitHub Trophies 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Hasan-Mahadi&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
 ---
 
-### 🏆 Featured Projects
+### 🏆🏆🏆 Featured Projects
 
 #### Hajj Management Platform
 > Complete solution for Hajj registration and management  
