@@ -60,6 +60,8 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicate
 | **Proficient** | ![TypeScript](https://skillicons.dev/icons?i=ts) ![Redux](https://skillicons.dev/icons?i=redux) ![Prisma](https://skillicons.dev/icons?i=prisma) ![AWS](https://skillicons.dev/icons?i=aws) ![Git](https://skillicons.dev/icons?i=git) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) |
 | **Learning** | ![GraphQL](https://skillicons.dev/icons?i=graphql) ![Docker](https://skillicons.dev/icons?i=docker) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Vercel](https://skillicons.dev/icons?i=vercel) |
 
+---
+
 
 ## 📜 Certifications
  
@@ -74,12 +76,14 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicate
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan-Mahadi&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
+---
+
 ## 📊  GitHub Contribution Graph Snake 
  <div align="center">
   <img src="https://raw.githubusercontent.com/Hasan-Mahadi/Hasan-Mahadi/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
 </div>
 
-
+---
 
 
 ## 🏆 GitHub Trophies 
