@@ -78,7 +78,7 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicate
 - **MERN Full Stack Professional** - Programming-Hero (2023-2024)
  
  ---
-## 📊 GitHub Analytics
+ ## 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hasan-Mahadi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
