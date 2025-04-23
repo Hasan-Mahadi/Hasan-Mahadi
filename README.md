@@ -53,6 +53,7 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicate
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
@@ -62,7 +63,7 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicate
 
 | Level        | Technologies                                                                 |
 |--------------|------------------------------------------------------------------------------|
-| **Expert**   | ![React](https://skillicons.dev/icons?i=react)  ![Next](https://skillicons.dev/icons?i=nextjs)  ![Node](https://skillicons.dev/icons?i=nodejs)  ![Express](https://skillicons.dev/icons?i=express) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![TypeScript](https://skillicons.dev/icons?i=ts)  ![Git](https://skillicons.dev/icons?i=git) ![Vercel](https://skillicons.dev/icons?i=vercel) |
+| **Expert**   | ![React](https://skillicons.dev/icons?i=react)  ![Next](https://skillicons.dev/icons?i=nextjs)  ![Node](https://skillicons.dev/icons?i=nodejs)  ![Express](https://skillicons.dev/icons?i=express) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![TypeScript](https://skillicons.dev/icons?i=ts)  ![Git](https://skillicons.dev/icons?i=git) ![Vercel](https://skillicons.dev/icons?i=vercel)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)|
 | **Proficient** | ![Redux](https://skillicons.dev/icons?i=redux)  ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![Docker](https://skillicons.dev/icons?i=docker)  ![DBMS](https://skillicons.dev/icons?i=postgres) |
 | **Learning** | ![GraphQL](https://skillicons.dev/icons?i=graphql) ![AWS](https://skillicons.dev/icons?i=aws)    ![Linux](https://skillicons.dev/icons?i=linux)  ![SQL](https://skillicons.dev/icons?i=postgres) ![Prisma](https://skillicons.dev/icons?i=prisma) ![Vitest](https://skillicons.dev/icons?i=vitest) ![Jest](https://skillicons.dev/icons?i=jest) |
 
