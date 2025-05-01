@@ -83,9 +83,10 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicate
 
  <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hasan-Mahadi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=Hasan-Mahadi&theme=radical&hide_border=false"/>
+
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasan-Mahadi&layout=compact&langs_count=8&theme=radical"/>
+   <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=Hasan-Mahadi&theme=radical&hide_border=false"/>
 </div>
 
 
