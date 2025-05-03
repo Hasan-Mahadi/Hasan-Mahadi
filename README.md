@@ -73,7 +73,7 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicate
 
 ---
 
-## 🧠 Soft Skills
+## 🧠 Soft & communication Skills.
 
 - 🤝 Strong communication & teamwork
 - 🎯 Goal-oriented and self-motivated
@@ -85,26 +85,22 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicate
 
 ---
 
-## 🛠️ Out-of-IT Job Experience
+## 🛠️ Other Sector Job Experience.
 
-### 📦 Sales & Customer Service Executive  
-**Company:** ABC Retail Ltd.  
-**Duration:** Jan 2021 – Dec 2022  
+### 📦 Sales & Customer Service Officers.  
+**Company:**Mondelez International.  
+**Duration:** Jun 2022 – Feb-2025. 
 **Key Responsibilities:**
 - Handled direct customer interactions, provided product support, and solved complaints
 - Achieved monthly sales targets and maintained customer satisfaction
 - Collected feedback and communicated with internal teams to improve service
 
-### 🚚 Logistic Support Assistant  
-**Company:** XYZ Delivery Services  
-**Duration:** June 2020 – Dec 2020  
-**Key Responsibilities:**
-- Assisted with package tracking, route planning, and delivery coordination
-- Communicated with clients and ensured on-time delivery and accuracy
+
+ 🎯 *These experiences enhanced my communication, discipline, and real-world problem-solving abilities — making me a more effective and reliable software engineer.*
+
 
 ---
 
-🎯 *These experiences enhanced my communication, discipline, and real-world problem-solving abilities — making me a more effective and reliable software engineer.*
 
 
 
