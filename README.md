@@ -88,8 +88,8 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicate
 ## 🛠️ Other Sector Job Experience.
 
 ### 📦 Sales & Customer Service Officers.  
-**Company:**Mondelez International.  
-**Duration:** Jun 2022 – Feb-2025. 
+**Company:**Mondelez International 
+**Duration:** Jun 2022 – Feb-2025
 **Key Responsibilities:**
 - Handled direct customer interactions, provided product support, and solved complaints
 - Achieved monthly sales targets and maintained customer satisfaction
