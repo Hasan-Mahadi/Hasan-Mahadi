@@ -142,10 +142,10 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicate
 🔗 [https://tutor-link-frontend-nine.vercel.app/](https://tutor-link-frontend-nine.vercel.app/)
 
 #### 🔹 Frontend Repository  
-🔗 [GitHub – Book Shop Frontend](https://github.com/Hasan-Mahadi/Tutor-Link-Frontend-Team-Projects.git)
+🔗 [GitHub – Tutor Link Frontend](https://github.com/Hasan-Mahadi/Tutor-Link-Frontend-Team-Projects.git)
 
 #### 🔹 Backend Repository  
-🔗 [GitHub – Book Shop Backend]( https://github.com/Hasan-Mahadi/Tutiors-Link-Backend-Team-Projects.git)
+🔗 [GitHub – Tutor Link Backend]( https://github.com/Hasan-Mahadi/Tutiors-Link-Backend-Team-Projects.git)
 ### 3. My Modern Portfolio Application 🚀 Tech: Next.js, TailwindCSS.
 > Feature-rich personal platform
  
