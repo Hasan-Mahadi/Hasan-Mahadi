@@ -123,10 +123,11 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicate
 
 ## 🏆🏆🏆 Featured Projects
 
-### Hajj Management Platform
-> Complete solution for Hajj registration and management  
-🔗 [GitHub](https://github.com/hasanmahadihm/hajj-platform) | 🚀 Tech: MERN Stack
-
+### BookShop Management Platform
+> Complete solution for bookShop management platform  with ShurjoPay Integration | 🚀 Tech: MERN Stack.
+🔗 [GitHub Link Frontend](https://github.com/Hasan-Mahadi/Book-Shop-Frontend-Site.git) 
+🔗 [GitHub Link Backend](https://github.com/Hasan-Mahadi/Book-Shop-Baeckend-Site.git)
+🔗 [Live Link](https://book-shop-app-five.vercel.app/)
 ### E-commerce with ShurjoPay Integration
 > Payment-integrated e-commerce platform  
 🔗 [GitHub](https://github.com/hasanmahadihm/shurjopay-ecommerce) | 🚀 Tech: MERN, Payment Gateway
