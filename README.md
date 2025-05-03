@@ -135,20 +135,22 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicate
 #### 🔹 Backend Repository  
 🔗 [GitHub – Book Shop Backend](https://github.com/Hasan-Mahadi/Book-Shop-Baeckend-Site.git)
 
-### 2. E-commerce with ShurjoPay Integration
-> Payment-integrated e-commerce platform  
+### 2. Tutor Connect Managment Platform 🚀 Tech: MERN Stack.
+> Payment-integrated with sslcommerz.  
  
 #### 🔹 Live Site  
-🔗 [https://book-shop-app-five.vercel.app/](https://book-shop-app-five.vercel.app/)
+🔗 [https://tutor-link-frontend-nine.vercel.app/](https://tutor-link-frontend-nine.vercel.app/)
 
 #### 🔹 Frontend Repository  
-🔗 [GitHub – Book Shop Frontend](https://github.com/Hasan-Mahadi/Book-Shop-Frontend-Site.git)
+🔗 [GitHub – Book Shop Frontend](https://github.com/Hasan-Mahadi/Tutor-Link-Frontend-Team-Projects.git)
 
 #### 🔹 Backend Repository  
-🔗 [GitHub – Book Shop Backend](https://github.com/Hasan-Mahadi/Book-Shop-Baeckend-Site.git)
-### Modern Blog Application
-> Feature-rich blog platform  
-🔗 [GitHub](https://github.com/hasanmahadihm/devto-blog) | 🚀 Tech: Next.js, TailwindCSS
+🔗 [GitHub – Book Shop Backend]( https://github.com/Hasan-Mahadi/Tutiors-Link-Backend-Team-Projects.git)
+### 3. My Modern Portfolio Application 🚀 Tech: Next.js, TailwindCSS.
+> Feature-rich personal platform
+ 
+ #### 🔹 Live Site  
+🔗 [Hasan-Mahadi](https://my-portfolio-three-blush-47.vercel.app/) 
 
 ---
 
