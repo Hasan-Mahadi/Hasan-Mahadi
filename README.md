@@ -123,10 +123,10 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicate
 
 ## 🏆🏆🏆 Featured Projects
 
-### BookShop Management Platform
-> Complete solution for bookShop management platform  with ShurjoPay Integration | 🚀 Tech: MERN Stack.
+### BookShop Management Platform 🚀 Tech: MERN Stack.
+> Complete solution for bookShop management platform  with ShurjoPay Integration 
 🔗 [GitHub Link Frontend](https://github.com/Hasan-Mahadi/Book-Shop-Frontend-Site.git) 
-🔗 [GitHub Link Backend](https://github.com/Hasan-Mahadi/Book-Shop-Baeckend-Site.git)
+> 🔗 [GitHub Link Backend](https://github.com/Hasan-Mahadi/Book-Shop-Baeckend-Site.git)
 🔗 [Live Link](https://book-shop-app-five.vercel.app/)
 ### E-commerce with ShurjoPay Integration
 > Payment-integrated e-commerce platform  
