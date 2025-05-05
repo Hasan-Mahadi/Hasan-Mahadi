@@ -1,9 +1,10 @@
  <!-- Cover Image Banner -->
 
 
-<div align="center">
-  <img src="https://i.postimg.cc/6QncTcJg/Md-Hasan-cover-pic.png" alt="Hasan Mahadi - Full Stack Developer" width="100%" height="400"/>
-</div>
+
+<!-- GitHub README Cover Image -->
+<img src="https://i.postimg.cc/Rq5mc9Z4/git-cover.jpg" alt="GitHub Cover" style="width:100%;"/>
+
 
 
 
