@@ -1,6 +1,9 @@
  <!-- Cover Image Banner -->
 
- ![Md Hasan Cover](https://i.postimg.cc/6QncTcJg/Md-Hasan-cover-pic.png)
+ <p align="center">
+  <img src="https://i.postimg.cc/MpMNbgjF/final-cover-pic.png" alt="Cover Image" />
+</p>
+
 
 
 
