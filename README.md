@@ -1,7 +1,8 @@
  <!-- Cover Image Banner -->
- <div align="center">
-  <img src="https://i.postimg.cc/6QncTcJg/Md-Hasan-cover-pic.png" alt="Hasan Mahadi - Full Stack Developer" width="100%" />
-</div>
+ <p align="center">
+  <img src="https://i.postimg.cc/6QncTcJg/Md-Hasan-cover-pic.png" alt="Hasan Mahadi" width="800" height="300" />
+</p>
+
 
 
  <h1 align="center"> 
