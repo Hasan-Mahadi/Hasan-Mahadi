@@ -1,7 +1,7 @@
  <!-- Cover Image Banner -->
- <p align="center">
-  <img src="https://i.postimg.cc/6QncTcJg/Md-Hasan-cover-pic.png" alt="Typing SVG" />
-</p>
+
+ ![Md Hasan Cover](https://i.postimg.cc/6QncTcJg/Md-Hasan-cover-pic.png)
+
 
 
 
