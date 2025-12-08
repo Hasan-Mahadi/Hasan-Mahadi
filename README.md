@@ -42,6 +42,7 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicate
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
@@ -161,7 +162,22 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicate
 
 ## 🏆🏆🏆 Featured Projects
 
-### 1. BookShop Management Platform 🚀 Tech: MERN Stack.
+
+### 1. Tutor Connect Managment Platform 🚀 Tech: MERN Stack.
+> Payment-integrated with sslcommerz.  
+ 
+#### 🔹 Live Site  
+🔗 [https://tutor-link-frontend-nine.vercel.app/](https://tutor-link-frontend-nine.vercel.app/)
+
+#### 🔹 Frontend Repository  
+🔗 [GitHub – Tutor Link Frontend](https://github.com/Hasan-Mahadi/Tutor-Link-Frontend-Team-Projects.git)
+
+#### 🔹 Backend Repository  
+🔗 [GitHub – Tutor Link Backend]( https://github.com/Hasan-Mahadi/Tutiors-Link-Backend-Team-Projects.git)
+
+
+
+### 2. BookShop Management Platform 🚀 Tech: MERN Stack.
 > Complete solution for bookShop management platform  with ShurjoPay Integration 
  
 #### 🔹 Live Site  
@@ -173,17 +189,8 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack, dedicate
 #### 🔹 Backend Repository  
 🔗 [GitHub – Book Shop Backend](https://github.com/Hasan-Mahadi/Book-Shop-Baeckend-Site.git)
 
-### 2. Tutor Connect Managment Platform 🚀 Tech: MERN Stack.
-> Payment-integrated with sslcommerz.  
- 
-#### 🔹 Live Site  
-🔗 [https://tutor-link-frontend-nine.vercel.app/](https://tutor-link-frontend-nine.vercel.app/)
 
-#### 🔹 Frontend Repository  
-🔗 [GitHub – Tutor Link Frontend](https://github.com/Hasan-Mahadi/Tutor-Link-Frontend-Team-Projects.git)
 
-#### 🔹 Backend Repository  
-🔗 [GitHub – Tutor Link Backend]( https://github.com/Hasan-Mahadi/Tutiors-Link-Backend-Team-Projects.git)
 ### 3. My Modern Portfolio Application 🚀 Tech: Next.js, TailwindCSS.
 > Feature-rich personal platform
  
